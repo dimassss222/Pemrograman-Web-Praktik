@@ -1,2 +1,3 @@
 # Pemrograman-Web-Praktik
-wEB pRaktik pROJek 
+
+Projek Web Praktik
